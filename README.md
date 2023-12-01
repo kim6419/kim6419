@@ -9,7 +9,7 @@
 ```javascript
 const Finn = {
   pronouns: "He" | "he",
-  mian code [C]
+  mian code : [C]
   code: [Javascript, c++, HTML, CSS, Python,],
   tools: [Node, Open cv, Ros],
   MY challenge: {
