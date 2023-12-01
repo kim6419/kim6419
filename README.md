@@ -9,7 +9,8 @@
 ```javascript
 const Finn = {
   pronouns: "He" | "he",
-  code: [Javascript, c/c++, HTML, CSS, Python,],
+  mian code [C]
+  code: [Javascript, c++, HTML, CSS, Python,],
   tools: [Node, Open cv, Ros],
   MY challenge: {
                         1.Drone Test Bed
