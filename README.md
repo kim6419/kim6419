@@ -11,7 +11,7 @@ const Finn = {
   pronouns: "He" | "he",
   main code : [C]
   support code: [Javascript, c++, HTML, CSS, Python,],
-  tools: [Node, Open cv, Ros],
+  tools: [Node.js, Open cv, Ros,Arduino],
   MY challenge: {
                         1.Drone Test Bed
                         2.Gesture Control 
